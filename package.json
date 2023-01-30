@@ -1,6 +1,6 @@
 {
   "name": "@mfauzanap/react-native-svg-flagkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fork of the original package but with updated dependency versions",
   "main": "index.js",
   "repository": {
