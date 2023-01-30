@@ -7,7 +7,7 @@ Inspired from [FlagKit](https://github.com/madebybowtie/FlagKit) & [react-native
 ## Installation  
 
 ```
-npm install --save react-native-svg-flagkit
+npm install --save @mfauzanap/react-native-svg-flagkit 
 ```
 
 react-native-svg-flagkit depends on [react-native-svg](https://github.com/react-native-community/react-native-svg).
@@ -18,7 +18,7 @@ react-native link react-native-svg
 
 ## Usage
 ```javascript
-import { Flag } from 'react-native-svg-flagkit'
+import { Flag } from '@mfauzanap/react-native-svg-flagkit'
 
 export default class App extends Component {
   render() {
