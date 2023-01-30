@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { ScrollView, View, Text, StyleSheet, Image } from 'react-native';
-import { flagSvgs, getFlagSvgComponentByCode, getFlagObjectByCode } from 'react-native-svg-flagkit'
+import { flagSvgs, getFlagSvgComponentByCode, getFlagObjectByCode } from '@mfauzanap/react-native-svg-flagkit'
 
 class TestFlagKit extends Component {
     _test() {
